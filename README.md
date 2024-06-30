@@ -1,1 +1,1 @@
-# VCS
+# VCS - Virtual Community Support
