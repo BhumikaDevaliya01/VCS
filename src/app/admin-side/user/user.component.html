@@ -41,6 +41,9 @@
                  <td style="text-align: right;">
                   <button class="btnedit" routerLink="../editUser/{{item.id}}"> <i class="fa fa-edit "></i> </button>
                  </td>
+                 <td style="text-align: right;">
+                  <button class="btndelete" routerLink="../deleteUser/{{item.id}}">  <i class="fa fa-trash-o"></i> </button>
+                 </td>
                </tr>
                <tr *ngIf="result.length === 0">
                 <td colspan="6" style="text-align:center;width:100%;font-size:20px;color: red;"><b>No Data Found </b> </td>
