@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin-side",
+    "\\src\\app\\admin-side\\missiontheme",
+    "\\src\\app\\usereditprofile",
+    "\\src\\app\\volun-volunteering-mission",
+    "\\src\\app\\volunteering-timesheet",
+    "\\src\\environments"
+  ],
+  "PreviewInSolutionExplorer": false
+}
